@@ -33,3 +33,4 @@ export const useCount = () => {
 
   return context
 }
+// increment: () => void;", "decrement: () => void;
