@@ -47,3 +47,4 @@ const CounterApp: React.FC = () => {
 }
 
 export default CounterApp;
+const count = useSelector((state: RootState) => state.counter.value)", "const dispatch: AppDispatch = useAppDispatch()"
